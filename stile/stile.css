@@ -27,3 +27,13 @@
   vertical-align: top;
   color: #000000;
 }
+
+.h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-style: Bold;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19.5px;
+  vertical-align: top;
+  color: #35383A;
+}
