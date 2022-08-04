@@ -1,0 +1,18 @@
+.descript {
+  font-family: 'Montserrat', sans-serif;
+  font-style: Medium;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20.8px;
+  color: #000000;
+}
+
+.descript {
+  font-family: 'Montserrat', sans-serif;
+  font-style: Bold;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23.4px;
+  vertical-align: top;
+  color: #000000;
+}
