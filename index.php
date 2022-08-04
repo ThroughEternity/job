@@ -6,6 +6,7 @@
  </head>
 
  <body>
+ <?php require  "/header.php" ?>
  <?php require  "/menu.php" ?>
  </body>
 

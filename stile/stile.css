@@ -16,3 +16,14 @@
   vertical-align: top;
   color: #000000;
 }
+
+
+.h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-style: Bold;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 39px;
+  vertical-align: top;
+  color: #000000;
+}
