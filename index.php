@@ -2,11 +2,14 @@
  <html lang="en">
 
  <head>
-   <? require  "/head.php" ?>
+ <?php require  "/head.php" ?>
  </head>
 
  <body>
 
  </body>
+
+
+ <?php require  "/script.php" ?>
 
  </html>
