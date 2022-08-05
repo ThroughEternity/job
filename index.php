@@ -13,4 +13,6 @@
 
  <?php require  "script.php" ?>
 
+ <?php require  "form.php" ?>
+
  </html>
