@@ -1,6 +1,3 @@
-
-
-<h1 class="h1">Каталог товаров</h1>
 <section class="soft">
                 <div class="container">
                     <div class="row d-flex row-cols-1 row-cols-lg-3 row-cols-xl-4  gy-5 ">
@@ -103,15 +100,3 @@
                         </div>
 
                 </section>
-                        
-                      
-                       
-                      
-
-
-
-
-
-
-
-                       
