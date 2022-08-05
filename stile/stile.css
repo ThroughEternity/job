@@ -1,3 +1,16 @@
+
+
+.button {
+  margin-bottom: 10px;
+  height: 50px;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  background-color: #296DC1 ;
+}
+
+
+
 .descript {
   font-family: 'Montserrat', sans-serif;
   font-style: Medium;

@@ -6,8 +6,12 @@
                     <div class="row d-flex row-cols-1 row-cols-lg-3 row-cols-xl-4  gy-5 ">
                         <div class=" col d-flex justify-content-center  ">
                             <div class=" col-12  row border "> <img class="img-fluid " src="./img/image 11.svg" alt="картинка ">
-                           <span class="descript">Увлажнитель воздуха STARWIND SHC1322, 3л, белый</span> 
+                           <span class="descript">Увлажнитель воздуха STARWIND SHC1322, 3л, белый</span>
                             <p class="price">1650 ₽</p>
+                            
+                            <button type="button" class="btn btn-primary">Primary</button>
+<div class="text-center"><button type="button" class="button">Добавить в корзину</button> </div>
+                                
                         </div>
                         </div>
                       
