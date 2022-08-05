@@ -13,7 +13,7 @@
  </div>
 
  <div class="form-group">
- <label for="email" class="cols-sm-2 control-label">тел</label>
+ 
  <div class="cols-sm-10">
  <div class="input-group">
  <span class="input-group-addon"><i class="fa fa-envelope fa" aria-hidden="true"></i></span>
@@ -23,7 +23,7 @@
  </div>
 
  <div class="form-group">
- <label for="username" class="cols-sm-2 control-label"> Ваш Email</label>
+ <label for="username" class="cols-sm-2 control-label"> </label>
  <div class="cols-sm-10">
  <div class="input-group">
  <span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
