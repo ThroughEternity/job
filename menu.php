@@ -9,8 +9,8 @@
                            <span class="descript">Увлажнитель воздуха STARWIND SHC1322, 3л, белый</span>
                             <p class="price">1650 ₽</p>
                             
-                            <button type="button" class="btn btn-primary">Primary</button>
-<div class="text-center"><button type="button" class="button">Добавить в корзину</button> </div>
+                           
+<div class="text-center"><button type="button" class="button"><span class="buttontext ">Добавить в корзину </span></button> </div>
                                 
                         </div>
                         </div>
