@@ -35,7 +35,7 @@
  
 
  <div class="form-group ">
- <a href="#" target="_blank" type="button" id="button" class="btn btn-primary btn-lg btn-block login-button">Register</a>
+ <a href="#" target="_blank" type="button" id="button" class="btn btn-primary btn-lg btn-block login-button">Оформить заказ</a>
  </div>
  
  </form>
