@@ -4,16 +4,21 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20.8px;
+  text-align: center;
   color: #000000;
+  padding: 34px 20px 15px 20px ;
 }
+/* строки кода видимо по количеству символов хз не указано  */
 
-.descript {
+.price {
   font-family: 'Montserrat', sans-serif;
   font-style: Bold;
   font-weight: 700;
   font-size: 18px;
   line-height: 23.4px;
+  text-align: center;
   vertical-align: top;
+  padding-bottom: 19px;
   color: #000000;
 }
 
