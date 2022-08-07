@@ -85,7 +85,7 @@ text-align: center;
 
 
 
-/* gsgsgsgsgsggggggggggggggggggg */
+/* Форма */
 
 
 
@@ -93,6 +93,12 @@ text-align: center;
   background: #F2F5F9;
   background-size: cover;
   background-attachment: fixed; 
+}
+
+.form-control {
+  border-radius: 0;
+  min-height: 60px;
+  min-width: 430px;
 }
 
 .h4 {
@@ -108,14 +114,6 @@ color: #000000;
 }
 
 
-.main-w3layouts {
-  padding: 3em 0 1em;
-}
-
-
-.agileits-top {
-  padding: 3em;
-}
 
 input[type="text"], input[type="email"], input[type="password"] {
   font-size: 0.9em;
@@ -155,14 +153,10 @@ line-height: 130%;
 height: 21px;
 }
 
-input.email, input.text.w3lpass {
-  margin: 2em 0;
-}
 
-.text:focus, .text:valid {
-  box-shadow: none;
+height: 60px;
   outline: none;
-  background-position: 0 0;
+ 
 }
 
 
@@ -173,7 +167,7 @@ input.email, input.text.w3lpass {
 }
 
 input[type="submit"] {
-  font-size: .9em;
+  
   color: #fff;
  background: rgba(41, 109, 193, 0.5);
     cursor: pointer;
@@ -185,5 +179,6 @@ border: 0;
 input[type="submit"]:hover {
   background: #8DC26F;
 }
+
 
 

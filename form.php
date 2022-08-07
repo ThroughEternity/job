@@ -6,20 +6,24 @@
  <h2>hrhrthrthrh</h2>
   <div class="container ">
 	<h1 class="h4">Пожалуйста представьтесь</h1>
-  <div class="col-6 "> 
-    <input type="email " class="form-control text" id="exampleInputEmail1" aria-describedby="emailHelp"> 
+	
+	<div class="col-4 ">  
+    <input type="text" class="form-control  text "   >
   </div>
-  <div class="col-6">  
-    <input type="password" class="form-control text email" id="exampleInputPassword1">
+  <div class="col-4">  
+    <input type="password" class="form-control text " >
   </div>
-  <div class="col-6">  
-    <input type="password" class="form-control text " id="exampleInputPassword1">
+  <div class="col-4">  
+    <input type="email" class="form-control text email " >
   </div>
-  <div class="col-6">  
-    <input type="password" class="form-control text w3lpass" id="exampleInputPassword1">
+  <div class="col-4`">  
+    <input type="password" class="form-control text w3lpass" >
   </div>
-  <button type="submit" class="btn btn-primary">Отправить</button>
-</div>
+	<div class="col-4">  
+	<input type="submit" value="ОФОРМИТЬ ЗАКАЗ">
+	</div>
+	</div>
+
 
 </form>
 
@@ -29,7 +33,9 @@
 
 <body class="">
 
-	<div class="main-w3layouts wrapper">
+	
+	
+	<div class="main-w3layouts wrapper bak">
 		<div class="main-agileinfo">
       <h1 class="h4">Пожалуйста представьтесь</h1>
 			<div class="agileits-top">
