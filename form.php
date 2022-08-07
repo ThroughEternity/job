@@ -1,31 +1,32 @@
-
-
-
- <form class="bak">
+<div class="container bak">
 	
- <h2>hrhrthrthrh</h2>
-  <div class="container ">
-	<h1 class="h4">Пожалуйста представьтесь</h1>
-	
-	<div class="col-4 ">  
-    <input type="text" class="form-control  text "   >
-  </div>
-  <div class="col-4">  
-    <input type="password" class="form-control text " >
-  </div>
-  <div class="col-4">  
-    <input type="email" class="form-control text email " >
-  </div>
-  <div class="col-4`">  
-    <input type="password" class="form-control text w3lpass" >
-  </div>
-	<div class="col-4">  
-	<input type="submit" value="ОФОРМИТЬ ЗАКАЗ">
+	<div class="col-4 mx-auto form ">
+		<form >
+			<div class="h4t">
+		<h4 class="h4">Пожалуйста представьтесь</h4>
 	</div>
+			<div class=" ">
+				<input type="text" class="form-control  text ">
+			</div>
+			<div class="">
+				<input type="text" class="form-control text ">
+			</div>
+			<div class="">
+				<input type="email" class="form-control text email ">
+			</div>
+			<div class="">
+				<input type="password" class="form-control text w3lpass">
+			</div>
+			<div class="">
+				<input type="submit" value="ОФОРМИТЬ ЗАКАЗ">
+
+			</div>
+		</form>
 	</div>
+</div>
 
 
-</form>
+
 
 
 
@@ -33,11 +34,11 @@
 
 <body class="">
 
-	
-	
+
+
 	<div class="main-w3layouts wrapper bak">
 		<div class="main-agileinfo">
-      <h1 class="h4">Пожалуйста представьтесь</h1>
+			<h1 class="h4">Пожалуйста представьтесь</h1>
 			<div class="agileits-top">
 				<form action="#" method="post">
 					<input class="text" type="text" name="Username" placeholder="Username" required="">
@@ -45,15 +46,13 @@
 					<input class="text" type="password" name="password" placeholder="Password" required="">
 					<input class="text w3lpass" type="password" name="password" placeholder="Confirm Password" required="">
 					<div class="wthree-text">
-						
+
 						<div class="clear"> </div>
 					</div>
 					<input type="submit" value="SIGNUP">
 				</form>
-		
+
 			</div>
 		</div>
-	
-</body>
 
-		
+</body>
