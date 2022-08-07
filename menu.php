@@ -4,13 +4,13 @@
 <section class="soft">
                 <div class="container">
                     <div class="row d-flex row-cols-1 row-cols-lg-3 row-cols-xl-4  gy-5 ">
-                        <div class=" col d-flex justify-content-center  ">
-                            <div class=" col-12  row border "> <img class="img-fluid " src="./img/image 11.svg" alt="картинка ">
+                        <div class=" card  col- 12 d-flex justify-content-center  ">
+                            <div class=" col-8  d-flex flex-column "> <img class="img-fluid " src="./img/image 11.svg" alt="картинка ">
                            <span class="descript">Увлажнитель воздуха STARWIND SHC1322, 3л, белый</span>
                             <p class="price">1650 ₽</p>
                             
                            
-<div class="text-center"><button type="button" class="button"><span class="buttontext ">Добавить в корзину </span></button> </div>
+<div class="text-center card-btn"><button type="button" class="button"><span class="buttontext ">Добавить в корзину </span></button> </div>
                                 
                         </div>
                         </div>
@@ -66,7 +66,7 @@
                         <div class=" col d-flex justify-content-center ">
                             <div class=" col-12  row border"> <img class="img-fluid " src="./img/image 11 (9).svg" alt="картинка ">
                            <span class="descript">Умная колонка ЯНДЕКС c голосовым помощником Алисой, серебристый</span> 
-                            <p class="price">5670 ₽</p>
+                           <p class="price">5670 ₽</p>
                         </div>
                         </div>
                         <div class=" col d-flex justify-content-center ">

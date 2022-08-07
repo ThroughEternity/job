@@ -1,43 +1,53 @@
-<div class="container">
- <div class="row main-form">
- <form class="" method="post" action="#">
- 
- <div class="form-group">
 
- <div class="cols-sm-10">
- <div class="input-group">
- <span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>
- <input type="text" class="form-control" name="name" id="name" placeholder="Ваше имя"/>
- </div>
- </div>
- </div>
 
- <div class="form-group">
- 
- <div class="cols-sm-10">
- <div class="input-group">
- <span class="input-group-addon"><i class="fa fa-envelope fa" aria-hidden="true"></i></span>
- <input type="text" class="form-control" name="email" id="email" placeholder="тел"/>
- </div>
- </div>
- </div>
 
- <div class="form-group">
- <label for="username" class="cols-sm-2 control-label"> </label>
- <div class="cols-sm-10">
- <div class="input-group">
- <span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
- <input type="text" class="form-control" name="username" id="username" placeholder="Ваш Email"/>
- </div>
- </div>
- </div>
+ <form class="bak">
+	
+ <h2>hrhrthrthrh</h2>
+  <div class="container ">
+	<h1 class="h4">Пожалуйста представьтесь</h1>
+  <div class="col-6 "> 
+    <input type="email " class="form-control text" id="exampleInputEmail1" aria-describedby="emailHelp"> 
+  </div>
+  <div class="col-6">  
+    <input type="password" class="form-control text email" id="exampleInputPassword1">
+  </div>
+  <div class="col-6">  
+    <input type="password" class="form-control text " id="exampleInputPassword1">
+  </div>
+  <div class="col-6">  
+    <input type="password" class="form-control text w3lpass" id="exampleInputPassword1">
+  </div>
+  <button type="submit" class="btn btn-primary">Отправить</button>
+</div>
 
- 
+</form>
 
- <div class="form-group ">
- <a href="#" target="_blank" type="button" id="button" class="btn btn-primary btn-lg btn-block login-button">Оформить заказ</a>
- </div>
- 
- </form>
- </div>
- </div>
+
+
+
+
+<body class="">
+
+	<div class="main-w3layouts wrapper">
+		<div class="main-agileinfo">
+      <h1 class="h4">Пожалуйста представьтесь</h1>
+			<div class="agileits-top">
+				<form action="#" method="post">
+					<input class="text" type="text" name="Username" placeholder="Username" required="">
+					<input class="text email" type="email" name="email" placeholder="Email" required="">
+					<input class="text" type="password" name="password" placeholder="Password" required="">
+					<input class="text w3lpass" type="password" name="password" placeholder="Confirm Password" required="">
+					<div class="wthree-text">
+						
+						<div class="clear"> </div>
+					</div>
+					<input type="submit" value="SIGNUP">
+				</form>
+		
+			</div>
+		</div>
+	
+</body>
+
+		
