@@ -7,7 +7,7 @@
 
  <body>
  <?php require  "header.php" ?>
- <?php require  "menu.php" ?>
+ <?php require  "catalog.php" ?>
  </body>
 
 

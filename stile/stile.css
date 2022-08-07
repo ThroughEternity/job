@@ -12,6 +12,7 @@ display: block;
 
 .card {
   height: 380px;
+  
 }
 
 .card:hover  .descript  {
@@ -34,7 +35,7 @@ display: block;
   margin-top: 10px;
 }
 
-.blok{
+.replen-blok{
   height: 100%;
 }
 
